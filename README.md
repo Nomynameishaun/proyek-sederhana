@@ -48,7 +48,7 @@ Jane Smith      654321     90.0
 
 ## Flowchart Program
 
-![1](<Gambar/flowchart_program.png>)
+![1](<UJIAN/Gambar/flowchart_program.png>)
 ### Langkah-Langkah Flowchart
 1. Mulai program.
 2. Tampilkan menu utama:
