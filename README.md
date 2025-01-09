@@ -66,3 +66,7 @@ Jane Smith      654321     90.0
 6. Jika memilih "Keluar":
    * Program berhenti.
 7. Ulangi hingga pengguna memilih "Keluar".
+
+Lampiran:
+Berikut adalah link video penjelasan saya:
+https://youtu.be/HkYJGxJzI48
